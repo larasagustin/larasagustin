@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there, I'm Laras Agustin</h1>
+<h1 align="center">👋 Hi, I'm Laras Agustin</h1>
 <h3 align="center">✨ Web Developer from Indonesia ✨</h3>
 
 <p align="center">

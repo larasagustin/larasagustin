@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hello World! 👋 I'm Laras Agustin
 
-<!--
-**larasagustin/larasagustin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 **Learning Coding** | 💫 **Tech Enthusiast** | 🎯 **Focus on Web Development**
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 😊 Nice to meet you!
+- 🌍 From Indonesia
+- 💻 Learning programming step by step
+- 🎵 Love music and chill vibes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me:
+- 📧 Email: agstiin0128@gmail.com
+- 📷 Instagram: 0lag8_
+
+---
+
+⭐ *"Keep learning and growing!"* 

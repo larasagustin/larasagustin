@@ -8,7 +8,8 @@
 ---
 
 ## 🎯 **About Me**
-Halo! Aku Laras, seorang Laravel enthusiast dari Indonesia! Sekarang Aku Semester 5 yang sedang menjalani program magang 
+Halo! Aku Laras, seorang Mahasiswi Semester 5 yang sedang menjalani program magang. 
+
 PROGRES TERUS SAMPE BISA JADI ORANG HEBAT!!!
 
 💻 **Tech Stack:** PHP, Laravel, HTML, CSS, JavaScript  

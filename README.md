@@ -1,41 +1,51 @@
 <h1 align="center">Hi there 👋, I'm Laras Agustin</h1>
-<h3 align="center">✨ Tech Enthusiast from Indonesia ✨</h3>
+<h3 align="center">✨ Laravel Developer from Indonesia ✨</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&center=true&vCenter=true&width=500&lines=Learning+Coding+💻;Web+Development+🚀;Music+Lover+🎵;Chill+Vibes+Only+😎" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&center=true&vCenter=true&width=500&lines=PHP+Developer;Laravel+Enthusiast;Web+Development;Full+Stack+Learner" />
 </p>
 
 ---
 
 ## 🎯 **About Me**
-Halo! Aku Laras, seorang tech enthusiast dari Indonesia yang lagi semangat belajar coding! 
+Halo! Aku Laras, seorang Laravel enthusiast dari Indonesia! 
 
-💫 **Sedang fokus belajar:** Web Development  
-🎵 **Kalau coding sambil denger:** Lagu-lagu chill & R&B  
-😊 **Fun fact:** Aku baru mulai journey coding dan excited banget buat explore dunia programming!
+💻 **Tech Stack:** PHP, Laravel, HTML, CSS, JavaScript  
+🚀 **Sedang fokus:** Mastering Laravel Framework  
+🎵 **Coding vibe:** Sambil dengerin lagu chill biar fokus  
+💫 **Goal:** Jadi Full-Stack Developer yang handal!
 
-Misi utama: Jadi full-stack developer yang handal! 🚀
+"Progress, not perfection!" ✨
 
 ## 🛠️ **Tech Stack**
 <p align="left"> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ## 📊 **GitHub Stats**
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=larasagustin&show_icons=true&theme=radical" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=larasagustin&layout=compact&theme=radical" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=larasagustin&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=larasagustin&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+## 🔥 **GitHub Streak**
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=larasagustin&theme=radical&hide_border=true" />
 </p>
 
 ## 🌟 **Current Goals**
-- [ ] Belajar React.js
-- [ ] Buat portfolio website
-- [ ] Kontribusi ke open source
-- [ ] Master JavaScript
+- [ ] Master Laravel Framework
+- [ ] Bangun project real dengan PHP & Laravel
+- [ ] Pelajari React.js untuk frontend
+- [ ] Kontribusi ke open source project
+- [ ] Buat portfolio website personal
 
 ## 🌟 **Let's Be Friends!**
 <p align="center">
@@ -44,6 +54,9 @@ Misi utama: Jadi full-stack developer yang handal! 🚀
   </a>
   <a href="mailto:agstinin0128@gmail.com">
     <img src="https://img.shields.io/badge/Email%20Me-agstinin0128@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/larasagustin" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-larasagustin-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 

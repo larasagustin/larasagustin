@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there, I'm Laras Agustin</h1>
-<h3 align="center">✨ Laravel Developer from Indonesia ✨</h3>
+<h3 align="center">✨ Web Developer from Indonesia ✨</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&center=true&vCenter=true&width=500&lines=PHP+Developer;Laravel+Enthusiast;Web+Development;Full+Stack+Learner" />
@@ -8,11 +8,12 @@
 ---
 
 ## 🎯 **About Me**
-Halo! Aku Laras, seorang Laravel enthusiast dari Indonesia! 
+Halo! Aku Laras, seorang Laravel enthusiast dari Indonesia! Sekarang Aku Semester 5 yang sedang menjalani program magang 
+PROGRES TERUS SAMPE BISA JADI ORANG HEBAT!!!
 
 💻 **Tech Stack:** PHP, Laravel, HTML, CSS, JavaScript  
-🚀 **Sedang fokus:** Tugas Akhir  
-🎵 **Coding vibe:** Sambil dengerin lagu chill biar fokus  
+🚀 **Sedang fokus:** Magang dan Tugas Akhir  
+🎵 **Coding vibe:** Sambil dengerin lagu yang cocok biar fokus  
 💫 **Goal:** Jadi Full-Stack Developer yang handal!
 
 > "Progress, not perfection!" ✨

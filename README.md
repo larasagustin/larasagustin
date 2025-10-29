@@ -11,7 +11,7 @@
 Halo! Aku Laras, seorang Laravel enthusiast dari Indonesia! 
 
 💻 **Tech Stack:** PHP, Laravel, HTML, CSS, JavaScript  
-🚀 **Sedang fokus:** Mastering Laravel Framework  
+🚀 **Sedang fokus:** Tugas Akhir  
 🎵 **Coding vibe:** Sambil dengerin lagu chill biar fokus  
 💫 **Goal:** Jadi Full-Stack Developer yang handal!
 
@@ -29,23 +29,11 @@ Halo! Aku Laras, seorang Laravel enthusiast dari Indonesia!
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-## 📊 **GitHub Stats**
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=larasagustin&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=larasagustin&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-## 🔥 **GitHub Streak**
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=larasagustin&theme=radical&hide_border=true" />
-</p>
-
 ## 🌟 **Current Goals**
-- [ ] Master Laravel Framework
+- [ ] Buat portfolio website personal
 - [ ] Bangun project real dengan PHP & Laravel
 - [ ] Pelajari React.js untuk frontend
 - [ ] Kontribusi ke open source project
-- [ ] Buat portfolio website personal
 
 ## 🌟 **Let's Be Friends!**
 <p align="center">

@@ -58,6 +58,7 @@ Terus berprogres setiap hari, sampai jadi versi terbaik dari diri sendiri! 🚀
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=larasagustin&color=ff69b4&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-ff69b4" alt="Made with Love" />
+  <img src="https://img.shields.io/badge/✨_With_Love_By-larasagustin-ff69b4?style=for-the-badge&logo=github" alt="With Love by larasagustin" />
+  <img src="https://img.shields.io/badge/Keep%20Coding-💻-pink?style=for-the-badge" alt="Keep Coding" />
 </p>
+

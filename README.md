@@ -46,15 +46,16 @@ Terus berprogres setiap hari, sampai jadi versi terbaik dari diri sendiri! 🚀
 ## 🤝 **Let's Be Friends!**
 <p align="center">
   <a href="https://instagram.com/0lag8_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-0lag8_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram" width="45" height="45" alt="Instagram" />
   </a>
   <a href="mailto:agstiin0128@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-agstiin0128@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="45" height="45" alt="Gmail" />
   </a>
   <a href="https://github.com/larasagustin" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-larasagustin-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub" />
   </a>
 </p>
+
 
 ---
 

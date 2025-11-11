@@ -44,7 +44,7 @@ Terus berprogres setiap hari, sampai jadi versi terbaik dari diri sendiri! 🚀
   <a href="https://github.com/larasagustin" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub" />
   </a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=agstiin0128@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=larasagustiin01@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
 </p>
 
 
